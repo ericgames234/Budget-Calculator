@@ -1,0 +1,19 @@
+id,date,kind,category,amount,currency
+T001,2026-09-01,income,salary,2850.00,EUR
+T002,04/09/2026,expense,food,18.50,EUR
+T003,2026-02-30,expense,food,18.50,EUR
+T004,2026-09-04,Expense,food,18.50,EUR
+T005,2026-09-04,refund,food,18.50,EUR
+T006,2026-09-04,expense,groceries,18.50,EUR
+T007,2026-09-04,expense,food,-12.00,EUR
+T008,2026-09-04,expense,food,0.00,EUR
+T009,2026-09-04,expense,food,"18,50",EUR
+T010,2026-09-04,expense,food,18.555,EUR
+T011,2026-09-04,expense,food,18.50,eur
+T012,2026-09-04,expense,food,18.50,XYZ
+T003,2026-09-05,expense,food,7.00,EUR
+,2026-09-05,expense,food,7.00,EUR
+X15,2026-09-05,expense,food,7.00,EUR
+T016,2026-09-05,expense,food,7.00,EUR,extra
+T017,2026-09-05,expense,food,7.00
+T018,2026-09-05,expense, food,7.00,EUR
